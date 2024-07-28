@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/umi-user-posts-app/static/css/main.82c3e680.css",
-    "main.js": "/umi-user-posts-app/static/js/main.4c24860a.js",
+    "main.js": "/umi-user-posts-app/static/js/main.7531bd84.js",
     "index.html": "/umi-user-posts-app/index.html",
     "main.82c3e680.css.map": "/umi-user-posts-app/static/css/main.82c3e680.css.map",
-    "main.4c24860a.js.map": "/umi-user-posts-app/static/js/main.4c24860a.js.map"
+    "main.7531bd84.js.map": "/umi-user-posts-app/static/js/main.7531bd84.js.map"
   },
   "entrypoints": [
     "static/css/main.82c3e680.css",
-    "static/js/main.4c24860a.js"
+    "static/js/main.7531bd84.js"
   ]
 }
