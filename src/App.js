@@ -6,7 +6,7 @@ import "./App.css";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/umi-user-posts-app">
       <div className="App">
         <header className="App-header">
           <h1>Umi React Assignment</h1>
