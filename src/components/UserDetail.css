@@ -120,7 +120,7 @@
     opacity: .85;
   }
   
-  @media (max-width: 768px) {
+  @media (max-width: 900px) {
     .user-detail {
       grid-template-columns: 1fr;
     }
